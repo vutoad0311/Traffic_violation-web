@@ -2,7 +2,7 @@
 
     <div class="container">
 
-        <a class="navbar-brand fw-bold" href="/traffic_violation/admin/dashboard.php">
+        <a class="navbar-brand fw-bold" href="/admin/dashboard.php">
 
             Traffic Violation Admin
 
@@ -31,7 +31,7 @@
 
                     <a
                         class="nav-link px-3"
-                        href="/traffic_violation/admin/dashboard.php">
+                        href="/admin/dashboard.php">
 
                         Dashboard
 
@@ -43,7 +43,7 @@
 
                     <a
                         class="nav-link px-3"
-                        href="/traffic_violation/admin/vehicles/index.php">
+                        href="/admin/vehicles/index.php">
 
                         Phương tiện
 
@@ -55,7 +55,7 @@
 
                     <a
                         class="nav-link px-3"
-                        href="/traffic_violation/admin/violations/index.php">
+                        href="/admin/violations/index.php">
 
                         Vi phạm
 
@@ -67,7 +67,7 @@
 
                     <a
                         class="nav-link px-3"
-                        href="/traffic_violation/index.php">
+                        href="/index.php">
 
                         Trang tra cứu
 
@@ -92,7 +92,7 @@
                 </span>
 
                 <a
-                    href="/traffic_violation/admin/logout.php"
+                    href="/admin/logout.php"
                     class="btn btn-outline-light">
 
                     Đăng xuất
